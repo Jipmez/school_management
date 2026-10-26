@@ -1,0 +1,1 @@
+import{l as e,t}from"./schemas-dwnoWu7S.js";function n(n){return e(t,n)}export{n as t};
